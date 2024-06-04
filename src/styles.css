@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+
+.layout {
+    border: 5px solid blue;
+    margin: 2px;
+}
+
+.innerlayout {
+    border: 2px solid Green;
+    margin: 2px;
+}
